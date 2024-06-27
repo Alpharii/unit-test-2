@@ -3,3 +3,11 @@ perbaikan git belum selesai
 masalah =
 saya belum bisa menginisialisasi 2 git,
 menghapus key di object
+
+solusi = 
+
+saya belum bisa menginisialisasi 2 git
+-- dengan menggunakan rm -rf .git dan menginisialisasi dan push kembali maka masalah selesai
+
+menghapus key di object
+-- dengan menggunakan syntaks delete result.properti maka masalah selesai
