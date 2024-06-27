@@ -1,0 +1,5 @@
+perbaikan git belum selesai
+
+masalah =
+saya belum bisa menginisialisasi 2 git,
+menghapus key di object
