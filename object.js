@@ -16,15 +16,15 @@ function peserta (hapus){
     }
 
     if(hapus === 'nama'){
-        
+        delete result.nama
     } if(hapus === 'tanggalLahir'){
-        
+        delete result.tanggalLahir
     } if(hapus === 'status'){
-        
+        delete result.status
     }if(hapus === 'batch'){
-        
+        delete result.batch
     }if(hapus === 'grade'){
-       
+       delete result.grade
     }
 
     return result
